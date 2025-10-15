@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Shivasaiprasad Akula
+# <h1 align="center">Hi, I’m Shivasaiprasad Akula 👋</h1>
 
-🚀 Full Stack Developer | React.js | MERN Stack | DevOps Enthusiast  
-⚡ I love building user-centric web apps, automating CI/CD pipelines, and working in cloud environments.
+<h3 align="center"> Full Stack Developer | React.js | MERN Stack | DevOps Enthusiast  </h3>
+<h3 align="center">  I love building user-centric web apps, automating CI/CD pipelines, and working in cloud environments.</h3>
 
 ---
 
