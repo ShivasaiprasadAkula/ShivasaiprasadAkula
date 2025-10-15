@@ -1,19 +1,17 @@
-# <h1 align="center">Hi, I’m Shivasaiprasad Akula 👋</h1>
-
-<h3 align="center"> Full Stack Developer | React.js | MERN Stack | DevOps Enthusiast  </h3>
-<h3 align="center">  I love building user-centric web apps, automating CI/CD pipelines, and working in cloud environments.</h3>
+<h1 align="center">Hi, I’m Shivasaiprasad Akula 👋</h1>
+<h3 align="center">Full Stack Developer | React.js | MERN Stack | DevOps Enthusiast</h3>
+<h3 align="center">I love building user-centric web apps, automating CI/CD pipelines, and working in cloud environments.</h3>
 
 ---
 
-## 🧩 About Me 
+## 🧩 About Me
 
 🎓 **B.Sc. in Mathematics** — strong analytical and problem-solving foundation  
-💻 **Full Stack Developer (MERN)** with 3+ years of experience building scalable web applications  
+💻 **Full Stack Developer (MERN)** with 3+ years of experience building scalable web apps  
 ☁️ **Hands-on with DevOps & Cloud tools**: Jenkins, Docker, Kubernetes, Terraform, SonarQube, AWS (S3, EC2)  
-⚙️ **Experienced in developing and deploying systems** like LMS, SMS, and CRM from front-end to back-end  
-🌱 **Currently diving deep into** React.js, Python with ML libraries, and cloud automation pipelines  
-🧩 **Passionate about** clean code, architecture, and continuous learning  
-🎨 **Fun fact**: I enjoy converting legacy code into sleek, modern modular components
+⚙️ **Experience in building systems** like LMS, SMS, CRM from front-end to back-end  
+🌱 **Currently exploring** React.js, Python (ML), and cloud automation  
+🎨 **Fun fact**: I enjoy converting legacy code into sleek, modular components
 
 ---
 
@@ -52,45 +50,30 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Shivasaiprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivasaiprasadAkula&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivasaiprasadAkula&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivasaiprasadAkula&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShivasaiprasadAkula&theme=onedark)  
+![Visitor Count](https://profile-counter.glitch.me/ShivasaiprasadAkula/count.svg)
+
+---
+
 ## 📂 Featured Projects
 
+- **Project 1 Name** — Short description + tech stack + [Live/Demo](#) | [GitHub](#)  
+- **Project 2 Name** — Short description + tech stack + [Live/Demo](#) | [GitHub](#)  
+- **Project 3 Name** — Short description + tech stack + [Live/Demo](#) | [GitHub](#)
 
 ---
 
 ## 🏅 Certifications & Achievements
 
 - AWS DevOps Certification Training – CI/CD, Cloud deployment, Jenkins, Docker, AWS S3 & EC2  
-- Full Stack MERN – Nxtwave
+- Full Stack MERN – Nxtwave  
 - Led team projects in LMS, SMS, CRM  
-- Active in hackathons & technical workshops  
-
----
-
-## 📬 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akulashivsaiprasad/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShivasaiprasadAkula)  
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:akulashivasaiprasad3821@gmail.com)  
-[![Mobile](https://img.shields.io/badge/Mobile-%2B91%209502493266-green?style=flat)](tel:+919502493266)
-
----
-
-## 💡 Random Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 📊 GitHub Stats
-
-![Shivasaiprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivasaiprasadAkula&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivasaiprasadAkula&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivasaiprasadAkula&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+- Active in hackathons & technical workshops
 
 ---
 
@@ -100,8 +83,15 @@
 
 ---
 
-## 👀 Visitors
+## 💡 Random Quote
 
-![Visitor Count](https://profile-counter.glitch.me/ShivasaiprasadAkula/count.svg)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akulashivsaiprasad/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShivasaiprasadAkula)  
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:akulashivasaiprasad3821@gmail.com)  
+[![Mobile](https://img.shields.io/badge/Mobile-%2B91%209502493266-green?style=flat)](tel:+919502493266)
