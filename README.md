@@ -6,12 +6,13 @@
 ---
 
 ## 🧩 About Me
-
-- 3+ years of experience developing **web applications** using React, Node.js, Express, and MongoDB  
-- Hands-on with DevOps & Cloud: Jenkins, Docker, Kubernetes, Terraform, SonarQube, AWS (S3, EC2)  
-- Built systems like LMS, SMS, CRM — from front-end to back-end and deployment  
-- Passionate about clean code, architecture, performance, and learning new tech  
-- Fun fact: I enjoy converting legacy code into modern, modular components  
+🎓 B.Sc. in Mathematics — strong analytical and problem-solving foundation
+💻 Full Stack Developer (MERN) with 3+ years of experience building scalable web applications
+☁️ Hands-on with DevOps & Cloud tools: Jenkins, Docker, Kubernetes, Terraform, SonarQube, AWS (S3, EC2)
+⚙️ Experienced in developing and deploying systems like LMS, SMS, and CRM from front-end to back-end
+🌱 Currently diving deep into React.js, Python with ML libraries, and cloud automation pipelines
+🧩 Passionate about clean code, architecture, and continuous learning
+🎨 Fun fact: I enjoy converting legacy code into sleek, modern modular components 
 
 ---
 
