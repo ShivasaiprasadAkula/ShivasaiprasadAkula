@@ -52,7 +52,7 @@
 
 ## 🌱 Currently Learning
 
-# 📘 Machine Learning with Python
+### 📘 Machine Learning with Python
 
 **Book:** *Introduction to Machine Learning with Python: A Guide for Data Scientists*  
 **Authors:** Andreas C. Müller & Sarah Guido  
