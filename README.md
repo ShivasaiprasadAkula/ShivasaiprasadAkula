@@ -76,12 +76,7 @@
 
 ## 💡 Random Quote
 
-```diff
-- if (!brainIsEmpty) {
-+     console.log("keepCoding();");
-- } else {
-+     console.log("orderCoffee();");
-- }
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
