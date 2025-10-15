@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I’m Shivasaiprasad Akula
 
-<!--
-**ShivasaiprasadAkula/ShivasaiprasadAkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | React.js | MERN Stack | DevOps Enthusiast  
+⚡ I love building user-centric web apps, automating CI/CD pipelines, and working in cloud environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+
+- 3+ years of experience developing **web applications** using React, Node.js, Express, and MongoDB  
+- Hands-on with DevOps & Cloud: Jenkins, Docker, Kubernetes, Terraform, SonarQube, AWS (S3, EC2)  
+- Built systems like LMS, SMS, CRM — from front-end to back-end and deployment  
+- Passionate about clean code, architecture, performance, and learning new tech  
+- Fun fact: I enjoy converting legacy code into modern, modular components  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, Redux, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express.js, PHP (Laravel)  
+**Database:** MongoDB, MySQL  
+**DevOps / Cloud:** Jenkins, Docker, Kubernetes, Terraform, SonarQube, AWS (S3, EC2)  
+**Tools:** Git, VS Code, Postman, Linux commands  
+
+---
+
+## 📂 Featured Projects
+
+
+---
+
+## 🏅 Certifications & Achievements
+
+- AWS DevOps Certification Training – CI/CD, Cloud deployment, Jenkins, Docker, AWS S3 & EC2  
+- Full Stack MERN – Nxtwave
+- Led team projects in LMS, SMS, CRM  
+- Active in hackathons & technical workshops  
+
+---
+
+## 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akulashivsaiprasad/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShivasaiprasadAkula)  
+📨 Email: **akulashivasaiprasad3821@gmail.com**
+
+---
