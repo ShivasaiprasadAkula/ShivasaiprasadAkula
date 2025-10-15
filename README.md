@@ -50,34 +50,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Shivasaiprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivasaiprasadAkula&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivasaiprasadAkula&layout=compact&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShivasaiprasadAkula&theme=onedark)  
-
----
-
-## 📂 Featured Projects
-
-- **Project 1 Name** — Short description + tech stack + [Live/Demo](#) | [GitHub](#)  
-- **Project 2 Name** — Short description + tech stack + [Live/Demo](#) | [GitHub](#)  
-- **Project 3 Name** — Short description + tech stack + [Live/Demo](#) | [GitHub](#)
-
----
-
-## 🏅 Certifications & Achievements
-
-- AWS DevOps Certification Training – CI/CD, Cloud deployment, Jenkins, Docker, AWS S3 & EC2  
-- Full Stack MERN – Nxtwave  
-- Led team projects in LMS, SMS, CRM  
-- Active in hackathons & technical workshops
-
----
-
 ## 🌱 Currently Learning
 
-## 📘 Machine Learning with Python
+# 📘 Machine Learning with Python
 
 **Book:** *Introduction to Machine Learning with Python: A Guide for Data Scientists*  
 **Authors:** Andreas C. Müller & Sarah Guido  
@@ -100,6 +75,31 @@ NumPy        ▓▓▓▓▓░░░░░ 50%
 Pandas       ▓▓▓▓▓░░░░░ 50%  
 Scikit-Learn ▓▓▓▓▓░░░░░ 50%  
 TensorFlow   ▓▓▓░░░░░░░ 30%  
+
+---
+
+## 📊 GitHub Stats
+
+![Shivasaiprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivasaiprasadAkula&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivasaiprasadAkula&layout=compact&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShivasaiprasadAkula&theme=onedark)  
+
+---
+
+## 📂 Featured Projects
+
+- **Project 1 Name** — Short description + tech stack + [Live/Demo](#) | [GitHub](#)  
+- **Project 2 Name** — Short description + tech stack + [Live/Demo](#) | [GitHub](#)  
+- **Project 3 Name** — Short description + tech stack + [Live/Demo](#) | [GitHub](#)
+
+---
+
+## 🏅 Certifications & Achievements
+
+- AWS DevOps Certification Training – CI/CD, Cloud deployment, Jenkins, Docker, AWS S3 & EC2  
+- Full Stack MERN – Nxtwave  
+- Led team projects in LMS, SMS, CRM  
+- Active in hackathons & technical workshops
 
 ---
 
