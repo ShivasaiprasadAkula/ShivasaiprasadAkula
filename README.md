@@ -77,7 +77,29 @@
 
 ## 🌱 Currently Learning
 
-- Python with Machine Learning & AI libraries (NumPy, Pandas, Scikit-learn, TensorFlow)
+## 📘 Machine Learning with Python
+
+**Book:** *Introduction to Machine Learning with Python: A Guide for Data Scientists*  
+**Authors:** Andreas C. Müller & Sarah Guido  
+
+**Focus Areas:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+**Learning Goals:**  
+- Apply ML concepts in real-world projects  
+- Build AI-driven features for web apps  
+- Learn practical implementation without deep advanced math  
+
+**Progress:**  
+Python       ▓▓▓▓▓▓▓░░░ 70%  
+NumPy        ▓▓▓▓▓░░░░░ 50%  
+Pandas       ▓▓▓▓▓░░░░░ 50%  
+Scikit-Learn ▓▓▓▓▓░░░░░ 50%  
+TensorFlow   ▓▓▓░░░░░░░ 30%  
 
 ---
 
