@@ -75,13 +75,14 @@
 ---
 
 ## 💡 Random Quote
-> ```
-> if (!brainIsEmpty) {
->     console.log("keepCoding();");
-> } else {
->     console.log("orderCoffee();");
-> }
-> ```
+
+```diff
+- if (!brainIsEmpty) {
++     console.log("keepCoding();");
+- } else {
++     console.log("orderCoffee();");
+- }
+
 ---
 
 ## 📊 GitHub Stats & Top Languages
