@@ -70,7 +70,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akulashivsaiprasad/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShivasaiprasadAkula)  
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:akulashivasaiprasad3821@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:akulashivasaiprasad3821@gmail.com)  
+[![Mobile](https://img.shields.io/badge/Mobile-%2B91%209502493266-green?style=flat)](tel:+919502493266)
 
 ---
 
@@ -80,10 +81,13 @@
 
 ---
 
-## 📊 GitHub Stats & Top Languages
+## 📊 GitHub Stats
 
-![Shivasaiprasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivasaiprasadAkula&show_icons=true&theme=radical&hide=contribs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivasaiprasadAkula&layout=compact&theme=radical)
+![Shivasaiprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivasaiprasadAkula&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivasaiprasadAkula&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivasaiprasadAkula&theme=radical)
+
+---
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
