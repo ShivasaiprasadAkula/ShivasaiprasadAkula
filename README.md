@@ -5,7 +5,7 @@
 
 ---
 
-# About Me 🧁
+## 🧩 About Me 
 
 🎓 **B.Sc. in Mathematics** — strong analytical and problem-solving foundation  
 💻 **Full Stack Developer (MERN)** with 3+ years of experience building scalable web applications  
@@ -70,6 +70,27 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akulashivsaiprasad/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ShivasaiprasadAkula)  
-📨 Email: **akulashivasaiprasad3821@gmail.com**
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:akulashivasaiprasad3821@gmail.com)
+
+---
+
+---
+
+## 📊 GitHub Stats & Top Languages
+
+![Shivasaiprasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivasaiprasadAkula&show_icons=true&theme=radical&hide=contribs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivasaiprasadAkula&layout=compact&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+
+- Python with Machine Learning & AI libraries (NumPy, Pandas, Scikit-learn, TensorFlow)
+
+---
+
+## 👀 Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/ShivasaiprasadAkula/count.svg)
 
 ---
