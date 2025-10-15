@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Shivasaiprasad Akula 👋</h1>
 <h3 align="center">Full Stack Developer | React.js | MERN Stack | DevOps Enthusiast</h3>
-<h3 align="center">I love building user-centric web apps, automating CI/CD pipelines, and working in cloud environments.</h3>
+<h3 align="center">Developing full-stack web applications with React, Node.js, MongoDB, and MySQL, with a keen interest in AWS, DevOps, and CI/CD pipelines..</h3>
 
 ---
 
@@ -54,9 +54,7 @@
 
 ![Shivasaiprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivasaiprasadAkula&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivasaiprasadAkula&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivasaiprasadAkula&theme=radical)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShivasaiprasadAkula&theme=onedark)  
-![Visitor Count](https://profile-counter.glitch.me/ShivasaiprasadAkula/count.svg)
 
 ---
 
